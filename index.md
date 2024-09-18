@@ -1,1 +1,2 @@
-this is a test
+# heading test 1
+## heading test 2
